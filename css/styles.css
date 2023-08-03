@@ -1,11 +1,56 @@
 
 h1 {
-    color: green;
-    margin-left: 500px;
+    color: white;
+    margin-left: 550px;
+    font-size: ;
  }
  
- .title-img {
+ .top {
     
-    width: 100px;
+    height: 500px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+ }
+
+ header {
+    background-color: green;
     height: 100px;
+ }
+
+ body {
+    margin: 8px;
+    display: block;
+ }
+
+ section {
+    display: block;
+ }
+
+ #mainHeading {
+    color: red;
+    margin-left: 500px;
+ }
+
+ #testP {
+    color: green;
+ }
+
+ p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+ }
+
+ footer {
+    text-align: center;
+ }
+
+ figure {
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    
  }
