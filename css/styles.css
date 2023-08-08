@@ -2,7 +2,7 @@
 h1 {
     color: white;
     margin-left: 550px;
-    font-size: ;
+    
  }
  
  .top {
@@ -32,7 +32,7 @@ h1 {
     margin-left: 500px;
  }
 
- #testP {
+ .funParagraph {
     color: green;
  }
 
